@@ -1,0 +1,5 @@
+Deep learning software that plays and teach strategy 
+in othello. 
+- Must play a game with a powerful deep learning dataset
+- Teach us visually, at how many 'empties' we made a losing move
+- Help us get as better as the machine (time consuming - but teaches the best strategy)
